@@ -411,9 +411,9 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header5-0 .mbr-section-title {
-  color: #000;
+#header2-1 .mbr-section-title {
+  text-align: right;
 }
-#header5-0 .mbr-section-lead {
-  color: #28324e;
+#header2-1 .mbr-section-text {
+  text-align: right;
 }
