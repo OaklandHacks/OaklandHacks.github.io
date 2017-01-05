@@ -42,7 +42,7 @@
               "color": "#000"
             },
             ".mbr-section-lead": {
-              "color": "#9c9a9a"
+              "color": "#475577"
             }
           },
           "_tags": [
@@ -52,11 +52,11 @@
           "_anchor": "header5-0",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/oakland2-2000x1332.jpg",
             "bgColor": "#efefef",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -64,13 +64,13 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "left",
+            "contentAlign": "right",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
-          "title": "SOLID COLOR INTRO",
-          "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
+          "title": "OHACKS II",
+          "text": "Comming Soon!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         }
       ]
