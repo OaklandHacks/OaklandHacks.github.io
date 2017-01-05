@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 2,
+    "uniqCompNum": 3,
     "versionPublish": "3.10.5"
   },
   "pages": {
@@ -94,6 +94,19 @@
               "text-align": "right"
             }
           }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#d97524"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"mailto:hello.ohacks@gmail.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT US</a> "
         }
       ]
     }
