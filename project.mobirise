@@ -16,7 +16,7 @@
         "subtitleFont": "Lora",
         "textFont": "Raleway",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       }
     },
