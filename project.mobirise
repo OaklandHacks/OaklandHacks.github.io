@@ -397,7 +397,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"volunteer.html\" data-toolbar=\"-mbrBtnMove\">VOLUNTEER</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">DONATE</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"volunteer.html\" data-toolbar=\"-mbrBtnMove\">VOLUNTEER</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\" \" data-toolbar=\"-mbrBtnMove\">DONATE</a>"
         },
         {
           "_inherit": "gallery1",
