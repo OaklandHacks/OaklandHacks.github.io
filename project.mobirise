@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 48,
+    "uniqCompNum": 49,
     "versionPublish": "3.10.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -40,52 +40,41 @@
       },
       "components": [
         {
-          "_inherit": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#28262b",
-              "text-align": "left",
-              "font-size": "72px"
-            },
-            ".mbr-section-text": {
-              "color": "#565656",
-              "font-size": "23px"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header6",
-          "_anchor": "header6-4",
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1c",
           "_params": {
-            "imageSize": "40",
+            "imageSize": "42",
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/97481939-2000x1515.jpg",
-            "bgColor": "#2e2e2e",
+            "bgImage": "@PROJECT_PATH@/assets/images/97481939-2000x1515-1.jpg",
+            "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#ccc",
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
-            "showArrow": true
+            "showButtons": true
           },
           "media": {
             "image": {
+              "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/rounded-corners2-1400x1400.png",
+              "src": "@PROJECT_PATH@/assets/images/rounded-corners2-1400x1400-1.png",
               "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false,
-              "active": true
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -94,14 +83,19 @@
               "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
               "link": "",
-              "size": 250
+              "size": 0
             }
           },
           "title": "OHACKS II",
-          "text": "<br>The​ ​first​ ​high​ ​school​ ​hackathon​ ​in​ ​Oakland​ ​run​ ​by​ ​high​ ​school​ ​students.​ ​A Hackathon​ ​is​ ​an​ ​event​&nbsp;in​ ​which​ ​a​ ​large​ ​number​ ​of​ ​people​ ​meet​ ​to​ ​engage​ ​in​ ​collaborative computer​ ​programming.​ ​During​ ​OHacks​ ​II,​ Participants​ ​will​ ​build​ ​and​ ​present​ ​their​ ​creations​ ​in​ ​just 12​ ​hours! <span style=\"font-size: 1.07rem; line-height: 1.5;\">OHacks II will be held at the Kapor Center (Oakland, CA) on April 22, 2017.&nbsp;</span><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"interest.html\" data-toolbar=\"-mbrBtnMove\">Register Now!</a>"
+          "text": "<br>The​ ​first​ ​high​ ​school​ ​hackathon​ ​in​ ​Oakland​ ​run​ ​by​ ​high​ ​school​ ​students.​ ​A Hackathon​ ​is​ ​an​ ​event​ in​ ​which​ ​a​ ​large​ ​number​ ​of​ ​people​ ​meet​ ​to​ ​engage​ ​in​ ​collaborative computer​ ​programming.​ ​During​ ​OHacks​ ​II,​ Participants​ ​will​ ​build​ ​and​ ​present​ ​their​ ​creations​ ​in​ ​just 12​ ​hours! OHacks II will be held at the Kapor Center (Oakland, CA) on April 22, 2017.<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW!</a>",
+          "_styles": {
+            "H3": {
+              "font-size": "60px"
+            }
+          }
         },
         {
           "_inherit": "testimonials2",

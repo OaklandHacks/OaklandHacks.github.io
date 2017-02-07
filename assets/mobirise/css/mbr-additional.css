@@ -411,14 +411,8 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header6-4 .mbr-section-title {
-  color: #28262b;
-  text-align: left;
-  font-size: 72px;
-}
-#header6-4 .mbr-section-text {
-  color: #565656;
-  font-size: 23px;
+#msg-box5-1c H3 {
+  font-size: 60px;
 }
 #features4-6 .card-subtitle {
   color: #7c706b;
