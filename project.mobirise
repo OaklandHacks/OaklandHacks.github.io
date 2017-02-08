@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ohacksii",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,7 +25,7 @@
     "versionPublish": "3.10.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/rounded-corners2-128x128.png",
     "noImageResize": ""
   },
   "pages": {
@@ -131,6 +131,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "60px"
+            }
+          },
           "_anchor": "msg-box5-1c",
           "_params": {
             "imageSize": "42",
@@ -177,12 +182,7 @@
           },
           "title": "OHACKS II",
           "text": "<br>The​ ​first​ ​high​ ​school​ ​hackathon​ ​in​ ​Oakland​ ​run​ ​by​ ​high​ ​school​ ​students.​ ​A Hackathon​ ​is​ ​an​ ​event​ in​ ​which​ ​a​ ​large​ ​number​ ​of​ ​people​ ​meet​ ​to​ ​engage​ ​in​ ​collaborative computer​ ​programming.​ ​During​ ​OHacks​ ​II,​ Participants​ ​will​ ​build​ ​and​ ​present​ ​their​ ​creations​ ​in​ ​just 12​ ​hours! OHacks II will be held at the Kapor Center (Oakland, CA) on April 22, 2017.<br><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW!</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "60px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW!</a>"
         },
         {
           "_inherit": "testimonials2",
@@ -279,7 +279,7 @@
             }
           },
           "title1": "Where",
-          "subtitle1": "Kapor Center - Oakland, CA",
+          "subtitle1": "Kapor Center for Social Impact:<br>Oakland, CA",
           "caption1": "Oakland Hacks II will be hosted &nbsp;on April 22nd at the Kapor Center in Downtown Oakland. It is walking distance from the 19th street BART station. The address is&nbsp; 2148 Broadway, Oakland, CA 94612.<br><br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"faq.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
@@ -295,7 +295,7 @@
             }
           },
           "title2": "Who",
-          "subtitle2": "High Schoolers - SF Bay Area",
+          "subtitle2": "High Schoolers:<br> SF Bay Area",
           "caption2": "OHacks II is targeted toward Oakland High Schoolers. However it is open to all high school students that would like to participate. If you’ve already graduated from high school, you can’t attend as a participant, but you can come help mentor others.<br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"about.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
@@ -311,7 +311,7 @@
             }
           },
           "title3": "Why",
-          "subtitle3": "Raise Awareness - Interest, Diversity",
+          "subtitle3": "Aiming to raise Awareness,&nbsp;<br>Interest, and Diversity",
           "caption3": "We are hosting this hackathon in oakland because we aim to improve diversity in the tech world. Students of&nbsp;color and girls are historically underrepresented &nbsp;and we would like to provide support to the introduction and continued education of minorities in tech.<br>.",
           "button3": "<a data-app-btn=\"true\" href=\"about.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
@@ -859,7 +859,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#28324e!important"
+              "color": "#17477c!important"
             }
           },
           "_name": "ext.menu",
@@ -991,7 +991,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#28324e!important"
+              "color": "#17477c!important"
             }
           },
           "_name": "ext.menu",
@@ -1120,7 +1120,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/12729290-10205677609796660-6726390869117906753-n-1400x926.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
