@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ohacksii",
-    "currentPage": "about.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 51,
+    "uniqCompNum": 53,
     "versionPublish": "3.10.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -180,9 +180,9 @@
               "size": 0
             }
           },
-          "title": "OHACKS II",
-          "text": "<br>The​ ​first​ ​high​ ​school​ ​hackathon​ ​in​ ​Oakland​ ​run​ ​by​ ​high​ ​school​ ​students.​ ​A Hackathon​ ​is​ ​an​ ​event​ in​ ​which​ ​a​ ​large​ ​number​ ​of​ ​people​ ​meet​ ​to​ ​engage​ ​in​ ​collaborative computer​ ​programming.​ ​During​ ​OHacks​ ​II,​ Participants​ ​will​ ​build​ ​and​ ​present​ ​their​ ​creations​ ​in​ ​just 12​ ​hours! OHacks II will be held at the Kapor Center (Oakland, CA) on April 22, 2017.<br><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW!</a>"
+          "title": "OAKLAND HACKS II",
+          "text": "<br>The​ ​first​ ​​ ​hackathon​ ​in​ ​Oakland​ ​run​ ​by​ ​high​ ​school​ ​students for high school students.​ ​A Hackathon​ ​is​ ​an​ ​event​ in​ ​which​ ​a​ ​large​ ​number​ ​of​ ​people​ ​meet​ ​to​ ​engage​ ​in​ ​collaborative computer​ ​programming.​ ​During​ ​OHacks​ ​II,​ Participants​ ​will​ ​build​ ​and​ ​present​ ​their​ ​creations​ ​in​ ​just 12​ ​hours! OHacks II will be held at the  Kapor Center for Social Impact in Oakland, CA on April 22, 2017. <br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"interest.html\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW!</a>"
         },
         {
           "_inherit": "testimonials2",
@@ -192,7 +192,7 @@
           "_name": "testimonials4",
           "testimonial": [
             {
-              "text": "<p><b>ARE YOU A FIRST TIMER?&nbsp;</b></p><p>We welcome new coders, beginners, and hackers of all levels.&nbsp;</p>",
+              "text": "<p><b>ARE YOU A FIRST TIMER?&nbsp;</b></p><p>We welcome coders of all experience, whether you are a beginner or been hacking for years.&nbsp;</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -280,7 +280,7 @@
           },
           "title1": "Where",
           "subtitle1": "Kapor Center for Social Impact:<br>Oakland, CA",
-          "caption1": "Oakland Hacks II will be hosted &nbsp;on April 22nd at the Kapor Center in Downtown Oakland. It is walking distance from the 19th street BART station. The address is&nbsp; 2148 Broadway, Oakland, CA 94612.<br><br><br>",
+          "caption1": "Oakland Hacks II will be hosted on April 22nd at the  Kapor Center for Social Impact in Downtown Oakland, 2148 Broadway, Oakland, CA 94612. This location is walking distance from the 19th street BART station and is easily accessible from various bus lines.<br><br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"faq.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -296,7 +296,7 @@
           },
           "title2": "Who",
           "subtitle2": "High Schoolers:<br> SF Bay Area",
-          "caption2": "OHacks II is targeted toward Oakland High Schoolers. However it is open to all high school students that would like to participate. If you’ve already graduated from high school, you can’t attend as a participant, but you can come help mentor others.<br><br>",
+          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">OHacks II is targeted toward Oakland High Schoolers, however it is open to all high school students that would like to participate. If you’ve already graduated from high school, but would like to participate, you can come help mentor others.</span><br><br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"about.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -312,7 +312,7 @@
           },
           "title3": "Why",
           "subtitle3": "Aiming to raise Awareness,&nbsp;<br>Interest, and Diversity",
-          "caption3": "We are hosting this hackathon in oakland because we aim to improve diversity in the tech world. Students of&nbsp;color and girls are historically underrepresented &nbsp;and we would like to provide support to the introduction and continued education of minorities in tech.<br>.",
+          "caption3": "We are hosting this hackathon in Oakland because we aim to improve diversity in the tech world, and what better place to do that than one of the nation’s most diverse cities? We would like to provide support to the introduction and continued education of minority groups in tech.<br>.",
           "button3": "<a data-app-btn=\"true\" href=\"about.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -371,7 +371,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<h4>WHAT IS OHACKS II ?</h4><p> </p><p>Oakland​ ​Hacks​ ​is​ ​the​ ​first​ ​high​ ​school​ ​hackathon​ ​in​ ​Oakland​ ​run​ ​by​ ​high​ ​school​ ​students.​ ​A&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Hackathon​ ​is​ ​an​ ​event​</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"> ​in​ ​which​ ​a​ ​large​ ​number​ ​of​ ​people​ ​meet​ ​to​ ​engage​ ​in​ ​collaborative&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">computer​ ​programming.​ ​During​ ​OHacks​ ​II,​ </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">​participants​ ​will​ ​build​ ​and​ ​present​ ​their​ ​creations​ ​in​ ​just&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">12​ ​hours!&nbsp;</span></p>"
+          "text": "<h4>WHAT IS OHACKS II ?</h4><p> </p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Oakland​ ​Hacks​ ​is​ ​the​ ​first​ ​high​ ​school​ ​hackathon​ ​in​ ​Oakland​ ​run​ ​by​ ​high​ ​school​ ​students.​ ​A Hackathon​ ​is​ ​an​ ​event​ in​ ​which​ ​a​ ​large​ ​number​ ​of​ ​people​ ​meet​ ​to​ ​engage​ ​in​ ​collaborative computer​ ​programming.​ ​During​ ​OHacks​ ​II,​ participants​ ​will​ ​build​ ​and​ ​present​ ​their​ ​creations​ ​in​ ​just 12​ ​hours! &nbsp;</span><br></p>"
         },
         {
           "_tags": [
@@ -443,24 +443,34 @@
           "allItem": "All"
         },
         {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "footer1",
-          "_anchor": "footer1-h",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1g",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#000000",
             "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
-          "text": "&nbsp; &nbsp;&nbsp;"
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         "
         }
       ]
     },
@@ -540,8 +550,8 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text1": "<h4>HACKATHONS 101:&nbsp;</h4><p>Well to start, a hackathon is an event in which a large number of people meet to engage in collaborative computer programming.&nbsp;</p>",
-          "text2": "<p><br></p><p><br></p><p>During OHacks II, participants will build and present their creations in just 12 hours!</p>"
+          "text1": "<h4>HACKATHONS 101:&nbsp;</h4><p>Well to start, a hackathon is an event in which a large number of people meet to engage in collaborative computer programming During OHacks II, participants will build and present their creations in just 12 hours!.&nbsp;</p>",
+          "text2": "<p><br></p><p><br></p><p>If you are interested in learning about how our hackathon works, feel free to take a look at our &nbsp;FAQ, &nbsp;If you still can't figure it out, dont hesitate to <a href=\"mailto:hello.ohacks@gmail.com\" target=\"_blank\">CONTACT US</a> !</p>"
         },
         {
           "_inherit": "gallery1",
@@ -558,8 +568,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12729290-10205677609796660-6726390869117906753-n-2000x1322-800x528.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12729290-10205677609796660-6726390869117906753-n-2000x1322.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -568,9 +578,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/12715557-10205677632477227-1092429272654541947-n-2000x1322-800x528.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12715557-10205677632477227-1092429272654541947-n-2000x1322.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": "4",
@@ -579,7 +590,7 @@
             "bgColor": "#ffffff",
             "filterBgColor": true,
             "fullWidth": true,
-            "showBullets": true
+            "showBullets": false
           },
           "_anchor": "gallery3-1a",
           "articleLayout": false,
@@ -589,21 +600,14 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content6",
-          "_styles": {
-            "H4": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          },
-          "_anchor": "content6-19",
+          "_name": "content1",
+          "_anchor": "content1-1f",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "5",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<h2><span style=\"font-size: 1.07rem; line-height: 1.5; color: inherit; font-family: Raleway, sans-serif;\">WHAT TO DO AT OHACKS II:</span></h2><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">If you are brand new to coding and would still like to attend OHacks II, we websites like codecademy or codeschool to get started. And even if you don’t completely learn everything, there will be plenty of mentors that will be available to help you and your team along the way!</span><br></p>",
-          "text2": "<p><br></p><p><br>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text": "<h4>WHAT TO DO AT OHACKS II:</h4><p>If you are brand new to coding and would still like to attend OHacks II, we recommend looking at websites like <a href=\"codecademy.com\" target=\"_blank\">codecademy.com</a> or <a href=\"codeschool.com\" target=\"_blank\">codeschool.com</a> to get started. And even if you don’t completely learn everything, there will be plenty of mentors that will be available to help you and your team along the way!</p>"
         },
         {
           "_tags": [
@@ -757,7 +761,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>Kapor Center<br>2148 Broadway, <br>Oakland, CA 94612<br><br><br>\n<strong>Contacts</strong><br>\nEmail: hello.ohacks@gmail.com<br>\nPhone: 510-459-0963<br>",
+          "text1": "<strong>Address</strong><br>Kapor Center for Social Impact<br>2148 Broadway, <br>Oakland, CA 94612<br><br><br>\n<strong>Contacts</strong><br>\nEmail: hello.ohacks@gmail.com<br>",
           "text2": "&nbsp;"
         }
       ]
@@ -768,7 +772,8 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "46px"
             },
             ".mbr-section-subtitle": {
               "color": "#565656"
@@ -1079,10 +1084,10 @@
           "_anchor": "content1-s",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "4",
+            "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text": "<p><b>ABOUT US</b></p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At Oakland Hacks, we are trying to introduce and foster coding for beginners, as well as provide a space for experienced coders to practice and further develop their skills. We’d love to reach students from neighborhoods that are often underrepresented in the tech field, and by partnering with various local companies, we aim to show participants how the tech industry is also a part of their own backyards.&nbsp;</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Our goal is to reach all OUSD high school students, especially groups that are historically underrepresented in the tech world. We also aim to expose these students to both local and national tech companies who will send representatives to the event. Last year, we had representatives from: Make School, Chalk Schools, Telegraph Academy, UC Berkeley School of Information, and OUSD Computer Science department.&nbsp;</p>"
+          "text": "<p><b>ABOUT US</b></p><p><br></p><p>&nbsp; &nbsp; &nbsp;At Oakland Hacks, we aim to introduce and foster coding for beginners, as well as provide a space for experienced coders to practice and further develop their skills. We’d love to reach students from neighborhoods that are often underrepresented in the tech field, and by partnering with various local companies, we want to show participants how the tech industry is also a part of their own backyards.&nbsp;</p><p><br></p><p><br></p><p>&nbsp; &nbsp; Our goal is to reach all OUSD high school students, especially groups that are historically underrepresented in the tech world. We also aim to expose these students to both local and national tech companies who will send representatives to the event. Last year, we had representatives from: Chalk Schools, Telegraph Academy, Make School, UC Berkeley School of Information, and OUSD Computer Science department.&nbsp;</p>"
         },
         {
           "_tags": [
@@ -1139,7 +1144,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<p><b>MEET THE ORGANIZERS</b><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; Antonio Calbo-Jackson started organizing Oakland Hacks with a fellow student in 2015. He had been learning to code since his freshman year of high school and wanted to help foster the small coding community within his school. While planning OHacks, The co-founders recruited Kai Drayton-Yee, then a junior who had also been learning to code since she was a freshman. </p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; Both now seniors at Oakland Technical High School, Antonio and Kai are planning Oakland Hacks II, where they aim to reach not only their schoolmates, but those all over their school district.&nbsp;</span><br></p>",
+          "text": "<p><b>MEET THE ORGANIZERS</b><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Antonio Calbo-Jackson started organizing Oakland Hacks with a fellow student in late 2015. He had been learning to code since his freshman year of high school and wanted to help foster the small coding community within his school. While planning OHacks, the founders recruited Kai Drayton-Yee, then a junior, who had also been learning to code since she was a freshman.</span></p><p>&nbsp; &nbsp; &nbsp; &nbsp; Both now seniors at Oakland Technical High School, Antonio and Kai are organizing Oakland Hacks II, where they aim to reach not only their schoolmates, but those all over their school district.&nbsp;<br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
@@ -1332,7 +1337,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>Kapor Center<br>2148 Broadway, <br>Oakland, CA 94612<br><br><br>\n<strong>Contacts</strong><br>\nEmail: hello.ohacks@gmail.com<br>\nPhone: 510-459-0963<br>",
+          "text1": "<strong>Address</strong><br>Kapor Center for Social Impact<br>2148 Broadway, <br>Oakland, CA 94612<br><br><br>\n<strong>Contacts</strong><br>\nEmail: hello.ohacks@gmail.com<br>",
           "text2": "&nbsp;"
         },
         {
@@ -1346,7 +1351,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<h2><b>OHACKS II SCHEDULE</b></h2><h4>&nbsp; &nbsp; April 22- Kapor Center</h4>"
+          "text": "<h2><b>OHACKS II SCHEDULE</b></h2><h4>&nbsp; &nbsp; April 22- Kapor Center for Social Impact</h4>"
         },
         {
           "_tags": [
@@ -1456,7 +1461,8 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "46px"
             },
             ".mbr-section-subtitle": {
               "color": "#565656"

@@ -482,15 +482,18 @@ h6,
   background-color: #cccccc;
   border-color: #cccccc;
 }
-
+#social-buttons4-1g .mbr-section-title,
+#social-buttons4-1g .btn-social {
+  color: #fff;
+}
+#social-buttons4-1g .mbr-section-title {
+  font-size: 30px;
+}
 #msg-box5-j H3 {
   font-size: 36px;
 }
 #content6-k P {
   text-align: left;
-}
-#content6-19 H4 {
-  font-family: 'Raleway', sans-serif;
 }
 #ext_menu-n .hide-buttons .nav-btn {
   display: none !important;
@@ -561,6 +564,7 @@ h6,
 }
 #form2-14 .mbr-section-title {
   color: #000000;
+  font-size: 46px;
 }
 #form2-14 .mbr-section-subtitle {
   color: #565656;
@@ -824,6 +828,7 @@ h6,
 }
 #form2-16 .mbr-section-title {
   color: #000000;
+  font-size: 46px;
 }
 #form2-16 .mbr-section-subtitle {
   color: #565656;
