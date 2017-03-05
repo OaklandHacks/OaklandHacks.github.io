@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ohacksii",
-    "currentPage": "interest.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -17,12 +17,13 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 61,
-    "versionPublish": "3.10.5",
+    "uniqCompNum": 62,
+    "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/rounded-corners2-128x128.png",
@@ -182,7 +183,7 @@
           },
           "title": "OAKLAND HACKS II",
           "text": "<br>The​ ​first​ ​​ ​hackathon​ ​in​ ​Oakland​ ​run​ ​by​ ​high​ ​school​ ​students for high school students.​ ​A Hackathon​ ​is​ ​an​ ​event​ in​ ​which​ ​a​ ​large​ ​number​ ​of​ ​people​ ​meet​ ​to​ ​engage​ ​in​ ​collaborative computer​ ​programming.​ ​During​ ​OHacks​ ​II,​ Participants​ ​will​ ​build​ ​and​ ​present​ ​their​ ​creations​ ​in​ ​just 12​ ​hours! OHacks II will be held at the  Kapor Center for Social Impact in Oakland, CA on April 22, 2017. <br><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"interest.html\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW!</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.eventbrite.com/e/oakland-hacks-ii-tickets-32455637686\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW!</a>"
         },
         {
           "_inherit": "testimonials2",
@@ -532,7 +533,7 @@
           },
           "title": "OHACKS for the Beginner",
           "text": "What to bring, how to act, and some easy ideas for the new coder.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"interest.html\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.eventbrite.com/e/oakland-hacks-ii-tickets-32455637686\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW</a>"
         },
         {
           "_tags": [
@@ -620,7 +621,7 @@
             "paddingBottom": "5",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"interest.html\" data-toolbar=\"-mbrBtnMove\">REGISTER</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"mailto:hello.ohacks@gmail.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.eventbrite.com/e/oakland-hacks-ii-tickets-32455637686\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"mailto:hello.ohacks@gmail.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT US</a>"
         },
         {
           "_inherit": "menu",
@@ -1101,7 +1102,7 @@
           },
           "_anchor": "msg-box5-12",
           "_params": {
-            "imageSize": "46",
+            "imageSize": "56",
             "paddingTop": "1",
             "paddingBottom": "1",
             "parallax": true,
@@ -1125,7 +1126,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/12729290-10205677609796660-6726390869117906753-n-1400x926.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1400x1050.jpg",
               "link": "",
               "alt": "",
               "title": "",
