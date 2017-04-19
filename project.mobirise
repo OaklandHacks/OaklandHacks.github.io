@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ohacksii",
-    "currentPage": "about.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -418,7 +418,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/intel-logowa-2000x1320-2-800x528.png",
                 "image": "@PROJECT_PATH@/assets/images/intel-logowa-2000x1320-2.png",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -429,6 +429,46 @@
                 "image": "@PROJECT_PATH@/assets/images/kapor-header-logo-1-2000x510-1.png",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/chalk-schools-logo-white-full-2000x456-800x182.png",
+                "image": "@PROJECT_PATH@/assets/images/chalk-schools-logo-white-full-2000x456.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/a7muytpj-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a7muytpj-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/makeschool-logo-hrz-rgb-nicolai-safais-conflicted-copy-2016-03-21-2000x1000-800x400.png",
+                "image": "@PROJECT_PATH@/assets/images/makeschool-logo-hrz-rgb-nicolai-safais-conflicted-copy-2016-03-21-2000x1000.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/usf9z5supvkj504k7l3evg-store-header-image-2000x689-800x275.png",
+                "image": "@PROJECT_PATH@/assets/images/usf9z5supvkj504k7l3evg-store-header-image-2000x689.png",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": "3",
